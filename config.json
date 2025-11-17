@@ -1,0 +1,17 @@
+{
+  "source_url": "PASTE_YOUR_NURSEGRID_ICS_URL_HERE",
+  "calendars": [
+    {
+      "name": "maine-eye-center",
+      "keyword": "Maine Eye Center"
+    },
+    {
+      "name": "maine-med-pacu",
+      "keyword": "Maine Medical Center"
+    },
+    {
+      "name": "third-hospital",
+      "keyword": "SOME THIRD KEYWORD HERE"
+    }
+  ]
+}
