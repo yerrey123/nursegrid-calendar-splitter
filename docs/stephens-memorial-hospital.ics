@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NurseGrid.com/calendarShare//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:My Nursegrid Shifts
+X-WR-CALDESC:Shifts entered in Nursegrid
+BEGIN:VEVENT
+UID:shift623353831@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.75 hours
+DTSTART:20250924T104500Z
+DTEND:20250924T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:shift623351863@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.75 hours
+DTSTART:20250926T104500Z
+DTEND:20250926T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:shift623351864@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.75 hours
+DTSTART:20250929T104500Z
+DTEND:20250929T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:shift623353832@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.75 hours
+DTSTART:20251002T104500Z
+DTEND:20251002T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:shift623351866@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.75 hours
+DTSTART:20251009T104500Z
+DTEND:20251009T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:shift623351862@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.75 hours
+DTSTART:20251014T104500Z
+DTEND:20251014T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:shift631717400@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.5 hours
+DTSTART:20251016T110000Z
+DTEND:20251016T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:shift631717401@app.nursegrid.com
+DTSTAMP:20251117T221511Z
+SUMMARY:Regular Shift in Day Surgery at Western Maine Health Stephens Memorial Hospital
+LOCATION:Western Maine Health Stephens Memorial Hospital\n181 Main St\, Norway\, Maine 04268
+DESCRIPTION:Address: 181 Main St\, Norway\, Maine 04268\nLength of Shift: 8.5 hours
+DTSTART:20251125T120000Z
+DTEND:20251125T203000Z
+END:VEVENT
+END:VCALENDAR
