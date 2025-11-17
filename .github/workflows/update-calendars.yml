@@ -1,0 +1,35 @@
+name: Update filtered calendars
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # run every hour
+  workflow_dispatch:       # allow manual trigger from Actions tab
+
+jobs:
+  update-calendars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run splitter script
+        run: |
+          python split_ics.py
+
+      - name: Commit and push if changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/*.ics
+            git commit -m "Update filtered calendars"
+            git push
+          else
+            echo "No changes to commit"
+          fi
