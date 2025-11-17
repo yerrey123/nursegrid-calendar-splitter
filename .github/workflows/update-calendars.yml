@@ -2,7 +2,7 @@ name: Update filtered calendars
 
 on:
   schedule:
-    - cron: "0 * * * *"   # run every hour
+    - cron: "*/5 * * * *"   # run every hour
   workflow_dispatch:       # allow manual trigger from Actions tab
 
 permissions:
