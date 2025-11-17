@@ -5,6 +5,9 @@ on:
     - cron: "0 * * * *"   # run every hour
   workflow_dispatch:       # allow manual trigger from Actions tab
 
+permissions:
+  contents: write          # <— allow this workflow to push commits
+
 jobs:
   update-calendars:
     runs-on: ubuntu-latest
