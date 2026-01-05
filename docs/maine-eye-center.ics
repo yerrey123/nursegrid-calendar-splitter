@@ -6,7 +6,7 @@ X-WR-CALNAME:My Nursegrid Shifts
 X-WR-CALDESC:Shifts entered in Nursegrid
 BEGIN:VEVENT
 UID:shift646657264@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 12.5 hours
@@ -15,7 +15,7 @@ DTEND:20251118T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift646838994@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
@@ -24,7 +24,7 @@ DTEND:20251118T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift647392459@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
@@ -33,7 +33,7 @@ DTEND:20251202T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift647392460@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
@@ -42,7 +42,7 @@ DTEND:20251203T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift647392461@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
@@ -51,7 +51,7 @@ DTEND:20251208T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift647392462@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
@@ -60,7 +60,7 @@ DTEND:20251215T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift652779539@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
@@ -69,7 +69,7 @@ DTEND:20260108T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift652779540@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
@@ -78,7 +78,7 @@ DTEND:20260115T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift652779541@app.nursegrid.com
-DTSTAMP:20260105T193949Z
+DTSTAMP:20260105T194952Z
 SUMMARY:Regular Shift in Ambulatory Surgery at Maine Eye Center
 LOCATION:Maine Eye Center\n161 Marginal Way\, Portland\, Maine 04101
 DESCRIPTION:Address: 161 Marginal Way\, Portland\, Maine 04101\nLength of Shift: 10.5 hours
