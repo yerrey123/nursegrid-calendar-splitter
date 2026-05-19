@@ -6,8 +6,8 @@ X-WR-CALNAME:My Nursegrid Shifts
 X-WR-CALDESC:Shifts entered in Nursegrid
 BEGIN:VEVENT
 UID:shift485057014@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20240816T110000Z
@@ -15,8 +15,8 @@ DTEND:20240816T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891274@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250305T103000Z
@@ -24,8 +24,8 @@ DTEND:20250305T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891482@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250306T120000Z
@@ -33,8 +33,8 @@ DTEND:20250307T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891275@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250307T103000Z
@@ -42,8 +42,8 @@ DTEND:20250307T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891276@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250311T093000Z
@@ -51,8 +51,8 @@ DTEND:20250311T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891483@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250312T110000Z
@@ -60,8 +60,8 @@ DTEND:20250312T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891547@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250313T103000Z
@@ -69,8 +69,8 @@ DTEND:20250313T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891277@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250317T093000Z
@@ -78,8 +78,8 @@ DTEND:20250317T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891484@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250318T110000Z
@@ -87,8 +87,8 @@ DTEND:20250318T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550891278@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250319T093000Z
@@ -96,8 +96,8 @@ DTEND:20250319T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550892261@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250404T093000Z
@@ -105,8 +105,8 @@ DTEND:20250404T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift556759399@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250409T100000Z
@@ -114,8 +114,8 @@ DTEND:20250409T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550892717@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250410T110000Z
@@ -123,8 +123,8 @@ DTEND:20250410T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550892434@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250411T130000Z
@@ -132,8 +132,8 @@ DTEND:20250412T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550892894@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250416T100000Z
@@ -141,8 +141,8 @@ DTEND:20250416T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550893136@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250417T103000Z
@@ -150,8 +150,8 @@ DTEND:20250417T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550892263@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250418T093000Z
@@ -159,8 +159,8 @@ DTEND:20250418T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550892264@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250421T093000Z
@@ -168,8 +168,8 @@ DTEND:20250421T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550892265@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250422T093000Z
@@ -177,8 +177,8 @@ DTEND:20250422T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift550893364@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250423T120000Z
@@ -186,8 +186,8 @@ DTEND:20250424T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747984@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250428T093000Z
@@ -195,8 +195,8 @@ DTEND:20250428T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643179@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250429T120000Z
@@ -204,8 +204,8 @@ DTEND:20250430T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643344@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250430T130000Z
@@ -213,8 +213,8 @@ DTEND:20250501T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift578121186@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250505T100000Z
@@ -222,8 +222,8 @@ DTEND:20250505T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747985@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250506T093000Z
@@ -231,8 +231,8 @@ DTEND:20250506T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643964@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250507T100000Z
@@ -240,8 +240,8 @@ DTEND:20250507T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643965@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250514T100000Z
@@ -249,8 +249,8 @@ DTEND:20250514T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573644132@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250515T110000Z
@@ -258,8 +258,8 @@ DTEND:20250515T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747986@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250516T093000Z
@@ -267,8 +267,8 @@ DTEND:20250516T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643966@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250519T100000Z
@@ -276,8 +276,8 @@ DTEND:20250519T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747987@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250520T093000Z
@@ -285,8 +285,8 @@ DTEND:20250520T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747988@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250521T093000Z
@@ -294,8 +294,8 @@ DTEND:20250521T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643345@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250527T130000Z
@@ -303,8 +303,8 @@ DTEND:20250528T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573644265@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250529T103000Z
@@ -312,8 +312,8 @@ DTEND:20250529T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747989@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250530T093000Z
@@ -321,8 +321,8 @@ DTEND:20250530T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift577366077@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250602T093000Z
@@ -330,8 +330,8 @@ DTEND:20250602T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747990@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250603T093000Z
@@ -339,8 +339,8 @@ DTEND:20250603T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643180@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250604T100000Z
@@ -348,8 +348,8 @@ DTEND:20250604T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747991@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250609T093000Z
@@ -357,8 +357,8 @@ DTEND:20250609T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747992@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250610T093000Z
@@ -366,8 +366,8 @@ DTEND:20250610T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643181@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250611T120000Z
@@ -375,8 +375,8 @@ DTEND:20250612T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573644323@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250617T093000Z
@@ -384,8 +384,8 @@ DTEND:20250617T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift559747993@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250618T093000Z
@@ -393,8 +393,8 @@ DTEND:20250618T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift573643182@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250620T120000Z
@@ -402,8 +402,8 @@ DTEND:20250621T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585704665@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250623T130000Z
@@ -411,8 +411,8 @@ DTEND:20250624T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666446@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250625T093000Z
@@ -420,8 +420,8 @@ DTEND:20250625T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666504@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250626T120000Z
@@ -429,8 +429,8 @@ DTEND:20250627T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift582365426@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250630T093000Z
@@ -438,8 +438,8 @@ DTEND:20250630T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666543@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250701T093000Z
@@ -447,8 +447,8 @@ DTEND:20250701T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666447@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250702T100000Z
@@ -456,8 +456,8 @@ DTEND:20250702T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666448@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250709T100000Z
@@ -465,8 +465,8 @@ DTEND:20250709T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666693@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250710T110000Z
@@ -474,8 +474,8 @@ DTEND:20250710T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift582365427@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250711T093000Z
@@ -483,8 +483,8 @@ DTEND:20250711T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift590924086@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250714T093000Z
@@ -492,8 +492,8 @@ DTEND:20250714T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666736@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250715T093000Z
@@ -501,8 +501,8 @@ DTEND:20250715T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift582365428@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250716T093000Z
@@ -510,8 +510,8 @@ DTEND:20250716T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666773@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250723T093000Z
@@ -519,8 +519,8 @@ DTEND:20250723T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666805@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250724T110000Z
@@ -528,8 +528,8 @@ DTEND:20250724T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift582365429@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250725T093000Z
@@ -537,8 +537,8 @@ DTEND:20250725T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift582365430@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250728T093000Z
@@ -546,8 +546,8 @@ DTEND:20250728T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift586593283@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250729T093000Z
@@ -555,8 +555,8 @@ DTEND:20250729T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585666929@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250730T093000Z
@@ -564,8 +564,8 @@ DTEND:20250730T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585667056@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250806T093000Z
@@ -573,8 +573,8 @@ DTEND:20250806T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585667083@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250807T110000Z
@@ -582,8 +582,8 @@ DTEND:20250807T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift582365431@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250808T093000Z
@@ -591,8 +591,8 @@ DTEND:20250808T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift586551478@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250810T110000Z
@@ -600,8 +600,8 @@ DTEND:20250810T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585667173@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250811T093000Z
@@ -609,8 +609,8 @@ DTEND:20250811T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift582365432@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250812T093000Z
@@ -618,8 +618,8 @@ DTEND:20250812T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift585667207@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250813T130000Z
@@ -627,8 +627,8 @@ DTEND:20250814T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598210935@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250818T093000Z
@@ -636,8 +636,8 @@ DTEND:20250818T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift602203752@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250819T110000Z
@@ -645,8 +645,8 @@ DTEND:20250819T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift602203753@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250828T110000Z
@@ -654,8 +654,8 @@ DTEND:20250828T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598210936@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250829T093000Z
@@ -663,8 +663,8 @@ DTEND:20250829T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598211085@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250904T120000Z
@@ -672,8 +672,8 @@ DTEND:20250905T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift602203880@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250905T120000Z
@@ -681,8 +681,8 @@ DTEND:20250906T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598210937@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250910T093000Z
@@ -690,8 +690,8 @@ DTEND:20250910T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598210938@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250911T093000Z
@@ -699,8 +699,8 @@ DTEND:20250911T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598211086@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250918T103000Z
@@ -708,8 +708,8 @@ DTEND:20250918T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598210939@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250919T093000Z
@@ -717,8 +717,8 @@ DTEND:20250919T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598210940@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250922T093000Z
@@ -726,8 +726,8 @@ DTEND:20250922T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift602204620@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250923T110000Z
@@ -735,8 +735,8 @@ DTEND:20250923T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift598210941@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20250930T093000Z
@@ -744,8 +744,8 @@ DTEND:20250930T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift602204949@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251003T110000Z
@@ -753,8 +753,8 @@ DTEND:20251003T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift602205186@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251007T120000Z
@@ -762,8 +762,8 @@ DTEND:20251008T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift623530337@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251010T100000Z
@@ -771,8 +771,8 @@ DTEND:20251010T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift615325678@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251015T120000Z
@@ -780,8 +780,8 @@ DTEND:20251016T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift615325216@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251017T093000Z
@@ -789,8 +789,8 @@ DTEND:20251017T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift624654267@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251020T093000Z
@@ -798,8 +798,8 @@ DTEND:20251020T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift624654212@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251023T103000Z
@@ -807,8 +807,8 @@ DTEND:20251023T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift615326439@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251024T120000Z
@@ -816,8 +816,8 @@ DTEND:20251025T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift615325217@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251027T093000Z
@@ -825,8 +825,8 @@ DTEND:20251027T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift624654401@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251028T110000Z
@@ -834,8 +834,8 @@ DTEND:20251028T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift615326973@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251120T113000Z
@@ -843,8 +843,8 @@ DTEND:20251121T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift615325679@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251121T130000Z
@@ -852,8 +852,8 @@ DTEND:20251122T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift624654712@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251124T120000Z
@@ -861,8 +861,8 @@ DTEND:20251125T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift615325680@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251128T130000Z
@@ -870,8 +870,8 @@ DTEND:20251129T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift628494455@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251129T120000Z
@@ -879,8 +879,8 @@ DTEND:20251130T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift646647466@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251201T103000Z
@@ -888,8 +888,8 @@ DTEND:20251201T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift646647698@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251205T130000Z
@@ -897,8 +897,8 @@ DTEND:20251206T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift645098706@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251211T120000Z
@@ -906,8 +906,8 @@ DTEND:20251212T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift647467035@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251212T130000Z
@@ -915,8 +915,8 @@ DTEND:20251213T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift646656162@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251214T120000Z
@@ -924,8 +924,8 @@ DTEND:20251215T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993357@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251218T130000Z
@@ -933,8 +933,8 @@ DTEND:20251219T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift645098997@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251219T130000Z
@@ -942,8 +942,8 @@ DTEND:20251220T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993358@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251222T130000Z
@@ -951,8 +951,8 @@ DTEND:20251223T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift645099270@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251223T130000Z
@@ -960,8 +960,8 @@ DTEND:20251224T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993359@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251229T130000Z
@@ -969,8 +969,8 @@ DTEND:20251230T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift645099442@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20251230T130000Z
@@ -978,8 +978,8 @@ DTEND:20251231T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993360@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260105T130000Z
@@ -987,8 +987,8 @@ DTEND:20260106T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993586@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260107T130000Z
@@ -996,8 +996,8 @@ DTEND:20260108T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift645099900@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260112T120000Z
@@ -1005,8 +1005,8 @@ DTEND:20260113T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993361@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260116T130000Z
@@ -1014,8 +1014,8 @@ DTEND:20260117T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift645100128@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260119T103000Z
@@ -1023,8 +1023,8 @@ DTEND:20260119T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993362@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260123T130000Z
@@ -1032,8 +1032,8 @@ DTEND:20260124T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift645103965@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260126T110000Z
@@ -1041,8 +1041,8 @@ DTEND:20260126T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift636993363@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260127T130000Z
@@ -1050,8 +1050,8 @@ DTEND:20260128T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654446319@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260202T103000Z
@@ -1059,8 +1059,8 @@ DTEND:20260202T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654446927@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260206T130000Z
@@ -1068,8 +1068,8 @@ DTEND:20260207T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654446320@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260209T103000Z
@@ -1077,8 +1077,8 @@ DTEND:20260209T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654446928@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260210T130000Z
@@ -1086,8 +1086,8 @@ DTEND:20260211T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854051@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260211T050000Z
@@ -1095,8 +1095,8 @@ DTEND:20260212T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854057@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260212T050000Z
@@ -1104,8 +1104,8 @@ DTEND:20260213T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854058@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260213T050000Z
@@ -1113,8 +1113,8 @@ DTEND:20260214T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854059@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260214T050000Z
@@ -1122,8 +1122,8 @@ DTEND:20260215T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854060@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260215T050000Z
@@ -1131,8 +1131,8 @@ DTEND:20260216T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854062@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260216T050000Z
@@ -1140,8 +1140,8 @@ DTEND:20260217T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854061@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260217T050000Z
@@ -1149,8 +1149,8 @@ DTEND:20260218T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854063@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260218T050000Z
@@ -1158,8 +1158,8 @@ DTEND:20260219T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854064@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260219T050000Z
@@ -1167,8 +1167,8 @@ DTEND:20260220T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854065@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260220T050000Z
@@ -1176,8 +1176,8 @@ DTEND:20260221T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854052@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260221T050000Z
@@ -1185,8 +1185,8 @@ DTEND:20260222T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854053@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260222T050000Z
@@ -1194,8 +1194,8 @@ DTEND:20260223T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854054@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260223T050000Z
@@ -1203,8 +1203,8 @@ DTEND:20260224T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854055@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260224T050000Z
@@ -1212,8 +1212,8 @@ DTEND:20260225T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673854056@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260225T050000Z
@@ -1221,8 +1221,8 @@ DTEND:20260226T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654447174@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260226T113000Z
@@ -1230,8 +1230,8 @@ DTEND:20260227T000000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654446929@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260227T130000Z
@@ -1239,8 +1239,8 @@ DTEND:20260228T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654446930@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260304T130000Z
@@ -1248,8 +1248,8 @@ DTEND:20260305T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift660348865@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260305T130000Z
@@ -1257,8 +1257,8 @@ DTEND:20260306T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654447467@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260309T093000Z
@@ -1266,8 +1266,8 @@ DTEND:20260309T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift660348985@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260313T120000Z
@@ -1275,8 +1275,8 @@ DTEND:20260314T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654446931@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260318T120000Z
@@ -1284,8 +1284,8 @@ DTEND:20260319T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654447781@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260320T093000Z
@@ -1293,8 +1293,8 @@ DTEND:20260320T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift654447999@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260323T093000Z
@@ -1302,8 +1302,8 @@ DTEND:20260323T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift671947013@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260327T120000Z
@@ -1311,8 +1311,8 @@ DTEND:20260328T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift670655294@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260329T230000Z
@@ -1320,8 +1320,8 @@ DTEND:20260330T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift683377552@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260330T110000Z
@@ -1329,8 +1329,8 @@ DTEND:20260330T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673801470@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260402T120000Z
@@ -1338,8 +1338,8 @@ DTEND:20260403T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift670655295@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260405T230000Z
@@ -1347,8 +1347,8 @@ DTEND:20260406T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673801679@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260406T093000Z
@@ -1356,8 +1356,8 @@ DTEND:20260406T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift686015395@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260409T120000Z
@@ -1365,8 +1365,8 @@ DTEND:20260410T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift683378014@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260410T130000Z
@@ -1374,8 +1374,8 @@ DTEND:20260411T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift683378373@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260413T110000Z
@@ -1383,8 +1383,8 @@ DTEND:20260413T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853733@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260414T040000Z
@@ -1392,8 +1392,8 @@ DTEND:20260415T035900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift699161285@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260415T040000Z
@@ -1401,8 +1401,8 @@ DTEND:20260416T035900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853739@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260416T040000Z
@@ -1410,8 +1410,8 @@ DTEND:20260417T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853740@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260417T040000Z
@@ -1419,8 +1419,8 @@ DTEND:20260418T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853741@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260418T040000Z
@@ -1428,8 +1428,8 @@ DTEND:20260419T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853742@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260419T040000Z
@@ -1437,8 +1437,8 @@ DTEND:20260420T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853743@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260420T040000Z
@@ -1446,8 +1446,8 @@ DTEND:20260421T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853744@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260421T040000Z
@@ -1455,8 +1455,8 @@ DTEND:20260422T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853745@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260422T040000Z
@@ -1464,8 +1464,8 @@ DTEND:20260423T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853746@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260423T040000Z
@@ -1473,8 +1473,8 @@ DTEND:20260424T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853747@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260424T040000Z
@@ -1482,8 +1482,8 @@ DTEND:20260425T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853734@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260425T040000Z
@@ -1491,8 +1491,8 @@ DTEND:20260426T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853735@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20260426T040000Z
@@ -1500,8 +1500,8 @@ DTEND:20260427T035959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift695302647@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260429T093000Z
@@ -1509,8 +1509,8 @@ DTEND:20260429T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift683378683@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260430T103000Z
@@ -1518,8 +1518,8 @@ DTEND:20260430T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673801472@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260501T120000Z
@@ -1527,8 +1527,8 @@ DTEND:20260502T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift684503204@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260502T110000Z
@@ -1536,8 +1536,8 @@ DTEND:20260502T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673801473@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260504T120000Z
@@ -1545,8 +1545,8 @@ DTEND:20260505T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift683379029@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260505T110000Z
@@ -1554,8 +1554,8 @@ DTEND:20260505T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853371@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260507T120000Z
@@ -1563,8 +1563,8 @@ DTEND:20260508T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853372@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260508T120000Z
@@ -1572,8 +1572,8 @@ DTEND:20260509T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853373@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260509T120000Z
@@ -1581,8 +1581,8 @@ DTEND:20260510T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853374@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260510T120000Z
@@ -1590,8 +1590,8 @@ DTEND:20260511T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853375@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260511T120000Z
@@ -1599,8 +1599,8 @@ DTEND:20260512T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift711092576@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260513T130000Z
@@ -1608,8 +1608,8 @@ DTEND:20260514T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift683379082@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260515T110000Z
@@ -1617,8 +1617,8 @@ DTEND:20260515T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673801680@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260518T093000Z
@@ -1626,8 +1626,8 @@ DTEND:20260518T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift706769748@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260520T093000Z
@@ -1635,8 +1635,8 @@ DTEND:20260520T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift683379234@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260521T103000Z
@@ -1644,8 +1644,8 @@ DTEND:20260521T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift696242611@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260522T120000Z
@@ -1653,8 +1653,8 @@ DTEND:20260523T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853533@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260523T120000Z
@@ -1662,8 +1662,8 @@ DTEND:20260524T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift673853534@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260524T120000Z
@@ -1671,8 +1671,8 @@ DTEND:20260525T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift696242612@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260525T120000Z
@@ -1680,8 +1680,8 @@ DTEND:20260526T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481065@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260527T093000Z
@@ -1689,8 +1689,8 @@ DTEND:20260527T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481066@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260529T093000Z
@@ -1698,8 +1698,8 @@ DTEND:20260529T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694053461@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260530T230000Z
@@ -1707,8 +1707,8 @@ DTEND:20260531T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694482101@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260604T120000Z
@@ -1716,8 +1716,8 @@ DTEND:20260605T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift705062035@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260605T110000Z
@@ -1725,8 +1725,8 @@ DTEND:20260605T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481069@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260610T093000Z
@@ -1734,8 +1734,8 @@ DTEND:20260610T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift705062108@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260611T093000Z
@@ -1743,8 +1743,8 @@ DTEND:20260611T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481068@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260617T093000Z
@@ -1752,8 +1752,8 @@ DTEND:20260617T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift705062230@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260618T110000Z
@@ -1761,8 +1761,8 @@ DTEND:20260618T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift698208080@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260619T120000Z
@@ -1770,8 +1770,8 @@ DTEND:20260620T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift698208081@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260620T120000Z
@@ -1779,8 +1779,8 @@ DTEND:20260621T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481067@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260624T093000Z
@@ -1788,8 +1788,8 @@ DTEND:20260624T220000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift705084991@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260625T130000Z
@@ -1797,8 +1797,8 @@ DTEND:20260626T013000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift698380773@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260626T120000Z
@@ -1806,8 +1806,8 @@ DTEND:20260627T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift705085263@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260701T100000Z
@@ -1815,8 +1815,8 @@ DTEND:20260701T223000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481376@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260702T103000Z
@@ -1824,8 +1824,8 @@ DTEND:20260702T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift696128828@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260703T110000Z
@@ -1833,8 +1833,8 @@ DTEND:20260703T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694121460@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260704T230000Z
@@ -1842,8 +1842,8 @@ DTEND:20260705T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481377@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260709T103000Z
@@ -1851,8 +1851,8 @@ DTEND:20260709T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift705085637@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260710T110000Z
@@ -1860,8 +1860,8 @@ DTEND:20260710T233000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694131089@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Call in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260711T230000Z
@@ -1869,8 +1869,8 @@ DTEND:20260712T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift705085954@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260716T103000Z
@@ -1878,17 +1878,26 @@ DTEND:20260716T230000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift694481378@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Regular Shift in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260717T103000Z
 DTEND:20260717T230000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:shift713136314@app.nursegrid.com
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Call
+LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
+DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
+DTSTART:20260719T110000Z
+DTEND:20260719T233000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:shift693582824@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260724T120000Z
@@ -1896,8 +1905,8 @@ DTEND:20260725T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift693582825@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260725T120000Z
@@ -1905,8 +1914,8 @@ DTEND:20260726T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift693582826@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260726T120000Z
@@ -1914,8 +1923,8 @@ DTEND:20260727T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift693582827@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260727T120000Z
@@ -1923,8 +1932,8 @@ DTEND:20260728T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift696240955@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260729T120000Z
@@ -1932,17 +1941,26 @@ DTEND:20260730T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift696240531@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260819T120000Z
 DTEND:20260820T003000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:shift713136500@app.nursegrid.com
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Regular Shift
+LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
+DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
+DTSTART:20260823T230000Z
+DTEND:20260824T113000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:shift684072729@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:Unavailable in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - Unavailable
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 12.5 hours
 DTSTART:20260826T120000Z
@@ -1950,8 +1968,8 @@ DTEND:20260827T003000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800282@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261122T050000Z
@@ -1959,8 +1977,8 @@ DTEND:20261123T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800266@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261125T050000Z
@@ -1968,8 +1986,8 @@ DTEND:20261126T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800277@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261126T050000Z
@@ -1977,8 +1995,8 @@ DTEND:20261127T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800280@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261127T050000Z
@@ -1986,8 +2004,8 @@ DTEND:20261128T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800281@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261128T050000Z
@@ -1995,8 +2013,8 @@ DTEND:20261129T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800283@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261130T050000Z
@@ -2004,8 +2022,8 @@ DTEND:20261201T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800284@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261201T050000Z
@@ -2013,8 +2031,8 @@ DTEND:20261202T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800267@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261202T050000Z
@@ -2022,8 +2040,8 @@ DTEND:20261203T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800285@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261203T050000Z
@@ -2031,8 +2049,8 @@ DTEND:20261204T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800286@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261204T050000Z
@@ -2040,8 +2058,8 @@ DTEND:20261205T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800287@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261205T050000Z
@@ -2049,8 +2067,8 @@ DTEND:20261206T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800268@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261206T050000Z
@@ -2058,8 +2076,8 @@ DTEND:20261207T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800279@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261207T050000Z
@@ -2067,8 +2085,8 @@ DTEND:20261208T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800269@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261208T050000Z
@@ -2076,8 +2094,8 @@ DTEND:20261209T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800270@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261209T050000Z
@@ -2085,8 +2103,8 @@ DTEND:20261210T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800271@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261210T050000Z
@@ -2094,8 +2112,8 @@ DTEND:20261211T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800272@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261211T050000Z
@@ -2103,8 +2121,8 @@ DTEND:20261212T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800273@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261212T050000Z
@@ -2112,8 +2130,8 @@ DTEND:20261213T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800274@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261213T050000Z
@@ -2121,8 +2139,8 @@ DTEND:20261214T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800278@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261214T050000Z
@@ -2130,8 +2148,8 @@ DTEND:20261215T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800275@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261215T050000Z
@@ -2139,8 +2157,8 @@ DTEND:20261216T045900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:shift675800276@app.nursegrid.com
-DTSTAMP:20260518T144938Z
-SUMMARY:On Vacation in PACU at Maine Medical Center
+DTSTAMP:20260519T020126Z
+SUMMARY:PACU - On Vacation
 LOCATION:Maine Medical Center\n22 Bramhall St\, Portland\, Maine 04102
 DESCRIPTION:Address: 22 Bramhall St\, Portland\, Maine 04102\nLength of Shift: 23.983333333333 hours
 DTSTART:20261216T050000Z
